@@ -1,10 +1,10 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">KRANTHIAKURATHI</span></h1>
-<h3 align="center">Full Stack Developer 🚀</h3>
+<h3 align="center">Full Stack Developer and AI/ML Enthusiast🚀</h3>
 
 <p align="center">
-I love crafting beautiful, performant applications while ensuring robust architecture.<br/>
+I love crafting beautiful, performant Web applications while ensuring robust architecture.<br/>
 Currently pursuing Computer Science and constantly learning new technologies.
 </p>
 
@@ -21,7 +21,6 @@ Currently pursuing Computer Science and constantly learning new technologies.
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <!-- Example tech stack icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
@@ -31,7 +30,7 @@ Currently pursuing Computer Science and constantly learning new technologies.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
