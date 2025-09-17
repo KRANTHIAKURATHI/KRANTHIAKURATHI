@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">KRANTHIAKURATHI</span></h1>
-<h3 align="center">Full Stack Developer & Mobile App Developer 🚀</h3>
+<h3 align="center">Full Stack Developer 🚀</h3>
 
 <p align="center">
 I love crafting beautiful, performant applications while ensuring robust architecture.<br/>
@@ -11,11 +11,11 @@ Currently pursuing Computer Science and constantly learning new technologies.
 ---
 
 ### 👀 About Me
-- 💻 Passionate about **Full Stack Development** & **Mobile App Development**
-- 🌱 Currently learning **Data Structures & Algorithms in Java**
-- 🤝 Looking to collaborate on **exciting full stack or mobile app projects**
+- 💻 Passionate about **Full Stack Development**
+- 🌱 Currently learning **AI,ML**
 - 📫 Reach me at **akurathikranthi12@gmail.com**
-- ⚡ Fun fact: **I build apps that blend beauty with performance**
+- 🔗 Connect with me on LinkedIn: [kranthi-akurathi](https://www.linkedin.com/in/kranthi-akurathi-77328a291/)
+- ⚡ Fun fact: **I build websites that blend beauty with performance**
 
 ---
 
@@ -40,5 +40,5 @@ Currently pursuing Computer Science and constantly learning new technologies.
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:akurathikranthi12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kranthi-akurathi-77328a291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
