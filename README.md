@@ -37,6 +37,12 @@ Currently pursuing Computer Science and constantly learning new technologies.
 
 ---
 
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRANTHIAKURATHI&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRANTHIAKURATHI&show_icons=true&theme=radical" alt="stats" />
