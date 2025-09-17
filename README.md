@@ -56,3 +56,8 @@ Currently pursuing Computer Science and constantly learning new technologies.
   <a href="mailto:akurathikranthi12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kranthi-akurathi-77328a291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+---
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=KRANTHIAKURATHI&label=Profile%20views&color=0e75b6&style=flat)
+</p>
