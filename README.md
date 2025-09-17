@@ -58,6 +58,5 @@ Currently pursuing Computer Science and constantly learning new technologies.
 </p>
 
 ---
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=KRANTHIAKURATHI&label=Profile%20views&color=0e75b6&style=flat)
-</p>
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-brightgreen)
+
