@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 
 <h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">KRANTHIAKURATHI</span></h1>
-<h3 align="center">Full Stack Developer and AI/ML Enthusiast🚀</h3>
+<h3 align="center">Full Stack Developer and AI/ML Enthusiast🚀</h3> 
 
 <p align="center">
 I love crafting beautiful, performant Web applications while ensuring robust architecture.<br/>
