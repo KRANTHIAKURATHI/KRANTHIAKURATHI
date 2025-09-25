@@ -6,7 +6,7 @@
 <p align="center">
 I love crafting beautiful, performant Web applications while ensuring robust architecture.<br/>
 Currently pursuing Computer Science and constantly learning new technologies. 
-</p>
+</p> 
 
 ---
 
