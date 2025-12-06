@@ -1,6 +1,6 @@
 <!-- Profile README for GitHub -->
 
-<h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">KRANTHIAKURATHI</span></h1>
+<h1 align="center">👋 Hi, I’m <span style="color:#4CAF50;">KRANTHI AKURATHI</span></h1>
 <h3 align="center">Full Stack Developer and AI/ML Enthusiast🚀</h3> 
  
 <p align="center"> 
