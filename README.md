@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Kranthi Akurathi</span></h1>
-<h3 align="center">Full Stack Developer | Backend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend Engineer | AI/ML Enthusiast</h3>
 
 <p align="center">
-I build scalable, secure, and high-performance web applications.<br/>
-B.Tech student with strong fundamentals in Computer Science and hands-on full-stack experience.
+I build scalable, secure, and user-centric web applications with clean architecture.<br/>
+B.Tech student with a strong foundation in Computer Science and hands-on project experience.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 💻 Passionate about **Full Stack & Backend Development**
-- 🔐 Working on **JWT Authentication & Role-Based Access Control**
-- 🤖 Learning **AI & Machine Learning**
-- 🌱 Interested in **System Design & Scalable Architectures**
-- 📫 Email: **akurathikranthi12@gmail.com**
+- 🔐 Currently working on **JWT Authentication & Role-Based Access Control**
+- 🤖 Exploring **AI / Machine Learning fundamentals**
+- 🌱 Strong interest in **System Design & Scalable Architectures**
+- 📫 Reach me at: **akurathikranthi12@gmail.com**
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/kranthi-akurathi-77328a291/" target="_blank">kranthi-akurathi</a>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -39,15 +39,15 @@ B.Tech student with strong fundamentals in Computer Science and hands-on full-st
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KRANTHIAKURATHI&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRANTHIAKURATHI&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRANTHIAKURATHI&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=KRANTHIAKURATHI&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KRANTHIAKURATHI&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRANTHIAKURATHI&theme=radical" />
 </p>
 
 ---
