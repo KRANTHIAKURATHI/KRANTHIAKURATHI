@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Kranthi Akurathi</span></h1>
-<h3 align="center">Full Stack Developer | Backend Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-I build scalable, secure, and user-centric web applications with clean architecture.<br/>
-B.Tech student with a strong foundation in Computer Science and hands-on project experience.
+I build scalable, secure, and high-performance web applications.<br/>
+B.Tech student with strong fundamentals in Computer Science and hands-on full-stack experience.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 💻 Passionate about **Full Stack & Backend Development**
-- 🔐 Currently working on **JWT Authentication & Role-Based Access Control**
-- 🤖 Exploring **AI / Machine Learning fundamentals**
-- 🌱 Strong interest in **System Design & Scalable Architectures**
-- 📫 Reach me at: **akurathikranthi12@gmail.com**
+- 🔐 Working on **JWT Authentication & Role-Based Access Control**
+- 🤖 Learning **AI & Machine Learning**
+- 🌱 Interested in **System Design & Scalable Architectures**
+- 📫 Email: **akurathikranthi12@gmail.com**
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/kranthi-akurathi-77328a291/" target="_blank">kranthi-akurathi</a>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -41,6 +41,8 @@ B.Tech student with a strong foundation in Computer Science and hands-on project
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KRANTHIAKURATHI&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
