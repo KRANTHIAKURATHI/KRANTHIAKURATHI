@@ -39,15 +39,13 @@ B.Tech student with a strong foundation in Computer Science and hands-on project
 
 ## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRANTHIAKURATHI&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KRANTHIAKURATHI&layout=compact&theme=radical&hide_border=true" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRANTHIAKURATHI&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRANTHIAKURATHI&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KRANTHIAKURATHI&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KRANTHIAKURATHI&theme=radical&hide_border=true" />
 </p>
 
 ---
