@@ -10,7 +10,7 @@ B.Tech student with a strong foundation in Computer Science and hands-on project
 
 ## 👨‍💻 About Me
 - 💻 Passionate about **Full Stack & Backend Development**
-- 🔐 Currently working on **JWT Authentication & Role-Based Access Control**
+- 🔐 Currently working on **RAG and AI Agents**
 - 🤖 Exploring **AI / Machine Learning fundamentals and AI Infrastructure**
 - 🌱 Strong interest in **System Design & Scalable Architectures**
 - 📫 Reach me at: **akurathikranthi12@gmail.com**
